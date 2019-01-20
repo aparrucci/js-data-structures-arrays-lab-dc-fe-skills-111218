@@ -23,7 +23,7 @@ return ['Arnold', ...drivers];
   }
 
 function removeLastDriver(){
-  
+  return drivers.slice(-)
 }
 
 
